@@ -1,10 +1,3 @@
-// ==UserScript==
-// @name         Facilitador de VIDA By; BROLY-SSJ2
-// @version      69.69_quemleuégay
-// @author       PiEiDi
-// @run-at document-end
-// ==/UserScript==
-
 javascript:
 
 //scav overview by EuMesmo "BROLY-SSJ2"
